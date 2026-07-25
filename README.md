@@ -38,7 +38,7 @@ When two features carry overlapping information (e.g., living area and total roo
 
 ```bash
 pip install numpy pandas statsmodels scikit-learn
-python day2_housing_ols_REAL.py
+python main.py
 ```
 
 **Note:** `ames_train.csv` must be in the same folder as the script.
